@@ -16,4 +16,4 @@ https://editor.p5js.org/ LINK with GITHUB
 Red neuronal capaz de detectar imagenes, de baja fidelidad, permite el proceso en aparatos simples. **MOBILENET**
 
 - ANALIZADOR DE IMAGENES:  https://editor.p5js.org/ml5/sketches/ImageClassification_Video
-- 
+
